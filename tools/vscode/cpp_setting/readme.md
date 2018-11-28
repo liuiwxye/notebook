@@ -55,9 +55,9 @@
 }
 ```
 
-3 setting.json(工作设置文件)
+3 settings.json(工作设置文件)
 
-4 task.json(配置任务文件)
+4 tasks.json(配置任务文件)
 ```json
 {
     // See https://go.microsoft.com/fwlink/?LinkId=733558
